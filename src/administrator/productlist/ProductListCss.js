@@ -1,0 +1,73 @@
+import { makeStyles } from "@mui/styles";
+
+export const useStyles = makeStyles({
+    container:{
+        display:'flex',
+        alignItems:"center",
+        justifyContent:"center",
+        height:"89vh",
+        width:"100%",
+        background:"radial-gradient(ellipse at 7% 23%, rgba(169, 222, 218, 1) 0%, rgba(252, 236, 255, 1) 100%)"
+    },
+
+    box:{
+        width:"60%",
+        height:"90%",
+        background:"#fff",
+        padding:20,
+        borderRadius:5,
+        
+    },
+
+    font:{
+        fontFamily:"Poppins",
+        fontWeight:600,
+        fontSize:25,
+        letterSpacing:1,
+        
+    },
+
+    boton:{
+        background:"linear-gradient(120deg, #2980b9, #8e44ad)",
+        fontWeight:300
+    },
+   
+    errorText:{
+        fontSize:12.6,
+        color:"rgba(211,60,77,255)",
+        paddingLeft:15,
+        paddingTop:3,
+        letterSpacing:0.5,
+        fontWeight:500
+    },
+
+    displaycontainer:{
+        display:'flex',
+        alignItems:"center",
+        justifyContent:"center",
+        height:"100%",
+        width:"100%",
+        background:"radial-gradient(ellipse at 7% 23%, rgba(169, 222, 218, 1) 0%, rgba(252, 236, 255, 1) 100%)"
+    },
+
+    displaybox:{
+        width:"89%",
+        height:"auto",
+        background:"#fff",
+        padding:20,
+        borderRadius:5,
+        
+    },
+
+    dialogbox:{
+        width:"70%",
+        height:"40%",
+        background:"#fff",
+        padding:20,
+        borderRadius:5,
+    
+    }
+
+    
+});
+

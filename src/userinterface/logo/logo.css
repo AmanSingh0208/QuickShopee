@@ -1,0 +1,33 @@
+.header__logo{
+
+  background: #ff0000; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ff0000, #9932cc); /* Chrome 10-25, Safari 5.1-6 */
+  background:conic-gradient(from 331deg at 54.5% 100%, rgba(40, 51, 80, 1) 38%, rgba(249, 56, 0, 1) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-family: 'Sigmar', cursive;
+  font-size:2rem;
+  letter-spacing: 1.5px;
+  font-weight: 600;
+  /* text-shadow: 0.2rem 0.2rem #120000 ;  */
+  cursor: pointer;
+
+}
+
+.footer__logo{
+
+  background: #ff0000; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ff0000, #9932cc); /* Chrome 10-25, Safari 5.1-6 */
+  background:conic-gradient(from 331deg at 37% 100%, rgba(40, 51, 80, 1) 38%, rgba(249, 56, 0, 1) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-family: 'Sigmar', cursive;
+  font-size:1.8rem;
+  letter-spacing: 1px;
+  font-weight: 600;
+  /* text-shadow: 0.2rem 0.2rem #120000 ;  */
+  
+
+}
