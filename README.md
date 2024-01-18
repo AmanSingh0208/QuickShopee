@@ -6,7 +6,7 @@ QUICKSHOPEE is a shoping website for your daily need products that you want quic
 
 ## Screenshots
 
-##Admin Login
+Admin Login
 
 Admin only access the dashboard throungh LOGIN. This will provide the control of adding, deleting, modifing products only to specific users.
 
