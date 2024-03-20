@@ -17,7 +17,13 @@ QuickShopee is not just any e-commerce website—it's your go-to platform for or
 
 Experience the future of online shopping with QuickShopee—where speed, convenience, and security come together for a seamless shopping experience. Happy shopping! 🛍️💻
 
+## Tech Stack
 
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
+**Database:** MySQL
 
 ## Screenshots
 
